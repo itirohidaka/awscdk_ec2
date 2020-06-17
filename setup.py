@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="itiro"),
 
     install_requires=[
-        "aws-cdk.core==1.44.0",
+        "aws-cdk.core==1.45.0",
         "aws-cdk.aws_ec2",
         "aws-cdk.aws_iam",
         "aws_cdk.aws_s3_assets",
